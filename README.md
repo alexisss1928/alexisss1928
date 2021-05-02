@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 I'm Alexis Salcedo 👨‍💻 from <img src="https://img.icons8.com/offices/30/000000/venezuela.png"/>
+
+### I'm currently in the way to learn FrontEnd specially ReactJs, and some backend technologies.
+
+##
+## ⚡ Tech Stack
+
+* 🌐 HTML | CSS | JS
+* :octocat: Git | Github
+* 🌱 I’m currently learning ReactJS, ExpressJS, MongoDB
+* 💬 Coming soon Python, MySQL, Angular
 
 <!--
 **alexisss1928/alexisss1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
