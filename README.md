@@ -1,5 +1,5 @@
-### 👋 Hi I'm Alexis <img src="https://img.icons8.com/offices/30/000000/venezuela.png"/>
-Front-end Developer, Padawan at @hackademymx, self-learner, enjoy the ride.
+### 👋 Hi I'm Alexis 🇻🇪
+Front-end Developer, Padawan at @hackademymx 🇲🇽, Self-learner, enjoy the ride.
 
 ![Github](https://github-readme-stats.vercel.app/api?username=alexisss1928&show_icons=true&hide_border=true&title_color=06446d&icon_color=06446d&bg_color=dddddd)
 
