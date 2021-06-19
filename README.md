@@ -1,14 +1,15 @@
-👋 I'm Alexis Salcedo 👨‍💻 from <img src="https://img.icons8.com/offices/30/000000/venezuela.png"/>
+### 👋 Hi I'm Alexis <img src="https://img.icons8.com/offices/30/000000/venezuela.png"/>
+Front-end Developer, Padawan at @hackademymx, self-learner, enjoy the ride.
 
-### I'm currently in the way to learn FrontEnd specially ReactJs, and some backend technologies.
+![Github](https://github-readme-stats.vercel.app/api?username=alexisss1928&show_icons=true&hide_border=true&title_color=06446d&icon_color=06446d&bg_color=dddddd)
 
-##
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 * 🌐 HTML | CSS | JS
 * :octocat: Git | Github
-* 🌱 I’m currently learning ReactJS, ExpressJS, MongoDB
-* 💬 Coming soon Python, MySQL, Angular
+* Webpack
+* 🌱 Currently learning ReactJS, ExpressJS, MongoDB
+* 💬 Coming soon Redux, NextJs and whatever is needed to succeed
 
 <!--
 **alexisss1928/alexisss1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
