@@ -7,7 +7,6 @@ Front-end Developer, Padawan at @hackademymx, self-learner, enjoy the ride.
 
 * 🌐 HTML | CSS | JS
 * :octocat: Git | Github
-* Webpack
 * 🌱 Currently learning ReactJS, ExpressJS, MongoDB
 * 💬 Coming soon Redux, NextJs and whatever is needed to succeed
 
