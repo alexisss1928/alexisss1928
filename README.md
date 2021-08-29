@@ -5,9 +5,8 @@ Front-end Developer, Padawan at @hackademymx 🇲🇽, Self-learner, enjoy the r
 
 ### ⚡ Tech Stack
 
-* 🌐 HTML | CSS | JS
-* :octocat: Git | Github
-* 🌱 Currently learning ReactJS, ExpressJS, MongoDB
+* 🌐 ReactJS
+* 🌱 React Native | Styled Components | PWA
 * 💬 Coming soon Redux, NextJs and whatever is needed to succeed
 
 <!--
