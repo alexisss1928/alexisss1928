@@ -1,5 +1,5 @@
 ### 👋 Hi I'm Alexis 🇻🇪
-Front-end Developer, Padawan at @hackademymx 🇲🇽, Self-learner, enjoy the ride.
+Front-end Developer, Mentor and Developer at @hackademymx 🇲🇽, Self-learner, enjoy the ride.
 
 ![Github](https://github-readme-stats.vercel.app/api?username=alexisss1928&show_icons=true&hide_border=true&title_color=06446d&icon_color=06446d&bg_color=dddddd)
 
