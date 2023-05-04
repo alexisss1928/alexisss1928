@@ -1,11 +1,6 @@
 ### 👋 Hi I'm Alexis 🇻🇪
 Front-end Developer, Mentor and Developer at @hackademymx 🇲🇽, Self-learner, enjoy the ride.
 
-![Github](https://github-readme-stats.vercel.app/api?username=alexisss1928&show_icons=true&hide_border=true&title_color=06446d&icon_color=06446d&bg_color=dddddd)
-
-<p align="center">
-<a href="https://github.com/alexisss1928"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisss1928&langs_count=5&title_color=FF66C4&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="alexisss1928" style="padding:10px"/></a>
-</p>
 
 ### ⚡ Tech Stack
 
